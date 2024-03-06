@@ -45,7 +45,7 @@ Find detailed instructions on running the analysis and interpreting the results 
 
 ## <mark style='background-color: yellow'>Credits</mark> 
 - Dataset Source: [Link to Dataset](https://github.com/Prakashpsk/Associate-Rule-Mining/blob/main/store_data.csv)
-- XGBoost Documentation: [XGBoost Documentation](https://github.com/Prakashpsk/Associate-Rule-Mining/blob/main/French%20Grocery%20Shopping%20Insights%20Association%20Rule%20Learning%20for%20Complementary%20Products.ipynb)
+- XGBoost Documentation: [Associate-Rule-Mining Documentation](https://github.com/Prakashpsk/Associate-Rule-Mining/blob/main/French%20Grocery%20Shopping%20Insights%20Association%20Rule%20Learning%20for%20Complementary%20Products.ipynb)
 
 ## <mark style='background-color: yellow'>About the Author</mark> 
 [Prakash.P] is a data science enthusiast with a passion for solving real-world problems using machine learning and AI technologies.
